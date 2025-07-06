@@ -1,0 +1,3 @@
+ip:port # Default Protcol HTTP.
+protocol://ip:port
+protocol://user:pass@ip:port
