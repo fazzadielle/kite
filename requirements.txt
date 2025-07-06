@@ -1,0 +1,6 @@
+aiohttp==3.11.10
+aiohttp-socks==0.9.1
+fake-useragent==1.5.1
+cryptography==36.0.0
+colorama==0.4.6
+pytz==2025.1
